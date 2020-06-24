@@ -1,0 +1,12 @@
+C:\Users\ws\source\repos\AndroidErrorApp\AndroidErrorApp\AndroidErrorApp\bin\Debug\netstandard2.0\AndroidErrorApp.deps.json
+C:\Users\ws\source\repos\AndroidErrorApp\AndroidErrorApp\AndroidErrorApp\bin\Debug\netstandard2.0\AndroidErrorApp.dll
+C:\Users\ws\source\repos\AndroidErrorApp\AndroidErrorApp\AndroidErrorApp\bin\Debug\netstandard2.0\AndroidErrorApp.pdb
+C:\Users\ws\source\repos\AndroidErrorApp\AndroidErrorApp\AndroidErrorApp\obj\Debug\netstandard2.0\AndroidErrorApp.csprojAssemblyReference.cache
+C:\Users\ws\source\repos\AndroidErrorApp\AndroidErrorApp\AndroidErrorApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ws\source\repos\AndroidErrorApp\AndroidErrorApp\AndroidErrorApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\ws\source\repos\AndroidErrorApp\AndroidErrorApp\AndroidErrorApp\obj\Debug\netstandard2.0\AndroidErrorApp.AssemblyInfoInputs.cache
+C:\Users\ws\source\repos\AndroidErrorApp\AndroidErrorApp\AndroidErrorApp\obj\Debug\netstandard2.0\AndroidErrorApp.AssemblyInfo.cs
+C:\Users\ws\source\repos\AndroidErrorApp\AndroidErrorApp\AndroidErrorApp\obj\Debug\netstandard2.0\AndroidErrorApp.csproj.CoreCompileInputs.cache
+C:\Users\ws\source\repos\AndroidErrorApp\AndroidErrorApp\AndroidErrorApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ws\source\repos\AndroidErrorApp\AndroidErrorApp\AndroidErrorApp\obj\Debug\netstandard2.0\AndroidErrorApp.dll
+C:\Users\ws\source\repos\AndroidErrorApp\AndroidErrorApp\AndroidErrorApp\obj\Debug\netstandard2.0\AndroidErrorApp.pdb
